@@ -865,7 +865,7 @@ Day 9 : 17th Dec. 2024
 			secrets
 			credentials
 			
-
+Commands>>>>>>>>>>>>
   501  cd d:
   502  ls
   503  cd SA-Dec03-DevOps/
